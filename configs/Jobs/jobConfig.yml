@@ -477,9 +477,9 @@ Jobs:
       Ender_Dragon:
         income: 500.0
         experience: 500.0
-  Fisherman:
-    fullname: Fisherman
-    shortname: Fi
+  Pescuitor:
+    fullname: Pescuitor
+    shortname: psct
     ChatColour: AQUA
     chat-display: full
     max-level: 10
