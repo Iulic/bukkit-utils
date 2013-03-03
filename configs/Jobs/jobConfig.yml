@@ -44,7 +44,7 @@ Jobs:
     #   joblevel - the level the player has attained in the job.
     # NOTE: Please take care of the brackets when modifying this equation.
     income-progression-equation: baseincome*((1.05)^(joblevel-1))
-     # Equation used for calculating how much experience is given per action for the job level.
+    # Equation used for calculating how much experience is given per action for the job level.
     # Available parameters:
     #   baseexperience - the experience for the action at level 1 (as set in the configuration).
     #   joblevel - the level the player has attained in the job.
