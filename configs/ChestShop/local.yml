@@ -1,0 +1,43 @@
+prefix: "&3[Shop] &r"
+iteminfo: "&aItem Information: &r"
+
+ACCESS_DENIED: "Nu aveti permisiune pentru asta!"
+
+NOT_ENOUGH_MONEY: "Nu aveti destui bani!"
+NOT_ENOUGH_MONEY_SHOP: "Posesorul shop-ului nu are destui bani!"
+
+CLIENT_DEPOSIT_FAILED: "Transferul de bani in contul dvs. a esuat!"
+SHOP_DEPOSIT_FAILED: "Transferul de bani in contul posesorului shop-ului a esuat!"
+
+NO_BUYING_HERE: "Nu puteti cumpara aici!"
+NO_SELLING_HERE: "Nu puteti vinde aici!"
+
+NOT_ENOUGH_SPACE_IN_INVENTORY: "Nu aveti destul spatiu in inventar!"
+NOT_ENOUGH_SPACE_IN_CHEST: "Nu este destul spatiu in chest!"
+NOT_ENOUGH_ITEMS_TO_SELL: "Nu aveti destule iteme pentru vinzare!"
+
+NOT_ENOUGH_STOCK: "Acest shop este epuizat."
+NOT_ENOUGH_STOCK_IN_YOUR_SHOP: "Shop-ul tau cu %material s-a epuizat!"
+YOU_BOUGHT_FROM_SHOP: "Ati cumparat %item de la %owner cu %price."
+SOMEBODY_BOUGHT_FROM_YOUR_SHOP: "%buyer a cumparat %item cu %price de la tine."
+
+YOU_SOLD_TO_SHOP: "Ati vindut %item lui %buyer cu %price."
+SOMEBODY_SOLD_TO_YOUR_SHOP: "%seller v-a vindut %item cu %price."
+
+YOU_CANNOT_CREATE_SHOP: "Nu puteti crea acest tip de shop!"
+NO_CHEST_DETECTED: "Nu pot gasi cufarul!"
+INVALID_SHOP_DETECTED: "Acest shop nu poate fi utilizat!"
+CANNOT_ACCESS_THE_CHEST: "Nu aveti permisiune pentru a folosi cufarul dat!"
+
+PROTECTED_SHOP: "Shop-ul a fost protejat cu succes cu LWC!"
+SHOP_CREATED: "Shop-ul a fost creat cu succes!"
+SHOP_FEE_PAID: "Ati fost taxat cu %amount"
+SHOP_REFUNDED: "V-a fost rambursat %amount."
+
+RESTRICTED_SIGN_CREATED: "Semn creat cu succes!"
+
+NO_PERMISSION: "Nu aveti permisiune pentru a face asta!"
+INCORRECT_ITEM_ID: "Ati specificat un item id invalid!"
+NOT_ENOUGH_PROTECTIONS: "Protectia nu poate fi creata!"
+
+CANNOT_CREATE_SHOP_HERE: "Nu puteti crea shop aici!"
