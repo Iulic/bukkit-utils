@@ -477,9 +477,9 @@ Jobs:
       Ender_Dragon:
         income: 500.0
         experience: 500.0
-  Pescuitor:
-    fullname: Pescuitor
-    shortname: psct
+  Pescar:
+    fullname: Pescar
+    shortname: pscr
     ChatColour: AQUA
     chat-display: full
     max-level: 10
